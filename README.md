@@ -31,5 +31,11 @@ Key Findings-:
  
  Comprehensive Metrics: Developed a comprehensive KPI framework encompassing fleet utilization, on-time performance, cancellation rates, route diversity, diversions, and cumulative delays.
 
+ <img width="1440" alt="Screenshot 2024-07-27 at 9 59 17 PM" src="https://github.com/user-attachments/assets/45993944-2678-41ba-8782-090482d91ad5">
+<img width="1440" alt="Screenshot 2024-07-27 at 9 59 34 PM" src="https://github.com/user-attachments/assets/c6679dba-d43b-4161-a561-f74f93ed3beb">
+
+<img width="1440" alt="Screenshot 2024-07-27 at 9 59 54 PM" src="https://github.com/user-attachments/assets/586a82da-0c49-4fae-96bb-db1687ebc576">
+<img width="1440" alt="Screenshot 2024-07-27 at 10 00 27 PM" src="https://github.com/user-attachments/assets/e375897a-1bec-4edf-a6ad-1ad477235ace">
+
 
 
